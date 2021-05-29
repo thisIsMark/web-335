@@ -1,2 +1,8 @@
 # web-335
-Web 335 - NoSQL, Mark Palmer
+Repository for web-335, NoSQL
+
+
+## Contributors
+
+- Professor Richard Krasso
+- Mark Palmer
