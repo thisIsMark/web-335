@@ -1,0 +1,28 @@
+[
+    {
+        "firstName": "Mark",
+        "lastName": "Palmer",
+
+        "roles": [
+            {
+                "id": "1001",
+                "text": "Web Developer"
+            },
+            {
+                "id": "1002",
+                "text": "Photographer"
+            }
+        ],
+        "dependants": [
+            {
+                "firstName": "Some",
+                "lastName": "Palmer"
+            },
+            {
+                "firstName": "VideoGame",
+                "lastName": "Dunkey"
+            }  
+        ],
+        "birthdate": "17 November, 1994"
+    }
+]
