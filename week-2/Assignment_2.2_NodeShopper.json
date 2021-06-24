@@ -1,0 +1,25 @@
+{
+    "id": 101,
+    "firstName": "John",
+    "LastName": "Wayne",
+    "date_of_birth": "26 May, 1907",
+    "userName": "JWayne",
+    "invoice": [
+        {
+            "id": 1001,
+            "dateCreated": "5 December, 1930",
+            "dateShipped": "6 December, 1930",
+            "subtotal": 10,
+            "tax": 0.07,
+            "total": 10.07,
+            "lineItem": [
+                {
+                    "id": 10001,
+                    "name": "The Big Trail",
+                    "price": 5,
+                    "quantity": 2
+                }
+            ]
+        }
+    ]
+}
