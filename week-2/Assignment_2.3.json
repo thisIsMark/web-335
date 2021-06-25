@@ -1,0 +1,28 @@
+{
+    "id": 11,
+    "name": "Chemistry",
+    "enroll": [
+        {
+            "id": 101,
+            "grade": "B",
+            "student": [
+                {
+                    "id": 1001,
+                    "firstName": "Tom",
+                    "lastName": "Segura"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "grade": "A",
+            "student": [
+                {
+                    "id": 1002,
+                    "firstName": "Joe",
+                    "LastName": "Rogan"
+                }
+            ]
+        }
+    ]
+}
